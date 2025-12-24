@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: cc0799e0afda6254c8458eca1d741038
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1604073777975419103
+    second: frog-Sheet_0
+  - first:
+      213: 1759579738975629983
+    second: frog-Sheet_1
+  - first:
+      213: -5401305939795001446
+    second: frog-Sheet_2
+  - first:
+      213: 5121937731900793863
+    second: frog-Sheet_3
+  - first:
+      213: 1407353252969270999
+    second: frog-Sheet_4
+  - first:
+      213: 5532462592241613850
+    second: frog-Sheet_5
+  - first:
+      213: -8840706686322775680
+    second: frog-Sheet_6
+  - first:
+      213: 5579285420852255382
+    second: frog-Sheet_7
+  - first:
+      213: 8983691662934412131
+    second: frog-Sheet_8
+  - first:
+      213: 8876510299078177976
+    second: frog-Sheet_9
+  - first:
+      213: -8754394176816238018
+    second: frog-Sheet_10
+  - first:
+      213: 2971011226822415699
+    second: frog-Sheet_11
+  - first:
+      213: -8070904624715745149
+    second: frog-Sheet_12
+  - first:
+      213: -7327730851050598604
+    second: frog-Sheet_13
+  - first:
+      213: -3049719878968942047
+    second: frog-Sheet_14
+  - first:
+      213: 2325486233937841863
+    second: frog-Sheet_15
+  - first:
+      213: -6911320139674616818
+    second: frog-Sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frog-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd06eb13a90d24610800000000000000
+      internalID: 1604073777975419103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92fd9f23784b6810800000000000000
+      internalID: 1759579738975629983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 104
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fbf477dd4ba05b0800000000000000
+      internalID: -5401305939795001446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 104
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704ed9fda37c41740800000000000000
+      internalID: 5121937731900793863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 104
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de49bcb35ce78310800000000000000
+      internalID: 1407353252969270999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 104
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cb2b75a6147cc40800000000000000
+      internalID: 5532462592241613850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 54
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896f4edb108f4580800000000000000
+      internalID: -8840706686322775680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a1a6aa78a9d6d40800000000000000
+      internalID: 5579285420852255382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b08d448fb7cac70800000000000000
+      internalID: 8983691662934412131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4b6a55613bf2b70800000000000000
+      internalID: 8876510299078177976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32be1301e4228680800000000000000
+      internalID: -8754394176816238018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355927e38f62b3920800000000000000
+      internalID: 2971011226822415699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b2cb51036eff80800000000000000
+      internalID: -8070904624715745149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f457d6d9bae4a90800000000000000
+      internalID: -7327730851050598604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 9
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122eb9d9de73da5d0800000000000000
+      internalID: -3049719878968942047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 4
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce0de7a869c54020800000000000000
+      internalID: 2325486233937841863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 4
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cf0b163fe0610a0800000000000000
+      internalID: -6911320139674616818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frog-Sheet_0: 1604073777975419103
+      frog-Sheet_1: 1759579738975629983
+      frog-Sheet_10: -8754394176816238018
+      frog-Sheet_11: 2971011226822415699
+      frog-Sheet_12: -8070904624715745149
+      frog-Sheet_13: -7327730851050598604
+      frog-Sheet_14: -3049719878968942047
+      frog-Sheet_15: 2325486233937841863
+      frog-Sheet_16: -6911320139674616818
+      frog-Sheet_2: -5401305939795001446
+      frog-Sheet_3: 5121937731900793863
+      frog-Sheet_4: 1407353252969270999
+      frog-Sheet_5: 5532462592241613850
+      frog-Sheet_6: -8840706686322775680
+      frog-Sheet_7: 5579285420852255382
+      frog-Sheet_8: 8983691662934412131
+      frog-Sheet_9: 8876510299078177976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

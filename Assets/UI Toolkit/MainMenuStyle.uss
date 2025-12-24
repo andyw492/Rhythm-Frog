@@ -1,0 +1,17 @@
+:root {
+}
+
+.header {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/monogram.ttf?fileID=12800000&guid=39b441936df4a324f8884ea2cbfc80d1&type=3#monogram");
+}
+
+.button {
+    width: 220px;
+    height: 60px;
+    -unity-text-align: upper-center;
+    align-self: center;
+    -unity-font-definition: url("project://database/Assets/monogram.ttf?fileID=12800000&guid=39b441936df4a324f8884ea2cbfc80d1&type=3#monogram");
+    font-size: 20px;
+}

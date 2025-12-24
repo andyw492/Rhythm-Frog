@@ -21,7 +21,7 @@ public class TileController : MonoBehaviour
         tile_game_objects = new List<GameObject>();
         for(int i = 0; i < tiles.Count; i++)
         {
-            Vector3 next_tile_offset = GameController.movement_vectors[tiles[i].direction];
+            Vector3 next_tile_offset = ChartController.movement_vectors[tiles[i].direction];
 
             Debug.Log($"tile {i} direction {tiles[i].direction} last_tile_position {last_tile_position} next tile offset {next_tile_offset}");
 

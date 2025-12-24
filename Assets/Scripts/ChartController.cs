@@ -1,9 +1,7 @@
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.IO;
-using UnityEditor.Experimental.GraphView;
 
 public class TileDatum
 {
@@ -11,13 +9,13 @@ public class TileDatum
     public float beats;
 }
 
-public class GameController : MonoBehaviour
+public class ChartController : MonoBehaviour
 {
     public const string UP = "u";
     public const string DOWN = "d";
     public const string LEFT = "l";
     public const string RIGHT = "r";
-    public const int grid_spacing = 8;
+    public const int grid_spacing = 16;
 
     public static Dictionary<string, Vector3> movement_vectors = new Dictionary<string, Vector3>
     {
@@ -77,7 +75,7 @@ public class GameController : MonoBehaviour
 
         Vector3 movement = movement_vectors[input_direction];
         player_controller.move_player(movement);
-        camera_controller.move_camera(movement);
+        //camera_controller.move_camera(movement);
         tile_controller.destroy_tile(current_tile_ptr);
 
         current_tile_ptr += 1;
