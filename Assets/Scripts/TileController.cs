@@ -32,8 +32,18 @@ public class TileController : MonoBehaviour
         }
     }
 
+    public void move_tiles(Vector3 player_movement)
+    {
+        Vector3 tile_movement = new Vector3(player_movement.x * -1, player_movement.y, 0);
+        foreach (GameObject tile_game_object in tile_game_objects)
+        {
+            tile_game_object.transform.position += tile_movement;
+        }
+    }
+
     public void destroy_tile(int index)
     {
         Destroy(tile_game_objects[index]);
+        tile_game_objects.RemoveAt(index);
     }
 }

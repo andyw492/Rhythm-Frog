@@ -28,6 +28,7 @@ public class ChartController : MonoBehaviour
     public CameraController camera_controller;
     public PlayerController player_controller;
     public TileController tile_controller;
+    public ScrollingBackground scrolling_background;
 
     Dictionary<string, UnityEngine.InputSystem.Controls.KeyControl> keybinds;
     List<TileDatum> tiles;
@@ -74,8 +75,8 @@ public class ChartController : MonoBehaviour
         }
 
         Vector3 movement = movement_vectors[input_direction];
-        player_controller.move_player(movement);
-        //camera_controller.move_camera(movement);
+        scrolling_background.move_background(movement);
+        tile_controller.move_tiles(movement);
         tile_controller.destroy_tile(current_tile_ptr);
 
         current_tile_ptr += 1;
